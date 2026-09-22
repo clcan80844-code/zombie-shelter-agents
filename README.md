@@ -16,6 +16,6 @@ python -m pip install -r requirements.txt
 streamlit run app.py
 ```
 
-启动后会先进入封面。API Key 通过密码框输入，只保存在当前 Streamlit 会话内存中，不会写入源码或 JSON 存档。
+启动后会先进入封面。请手动填写你的API Key，建议使用sk-开头的DeepSeek API Key，点击开始游戏。
 
 
