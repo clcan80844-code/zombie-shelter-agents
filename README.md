@@ -11,7 +11,7 @@
 - 尽可能地生存多一些的天数！
 
 ## 启动方式
-点击文件夹中的“Zombie Shelter Launcher”
+点右上方绿色code图标中的Download ZIP下载，解压，然后点击文件夹中的“Zombie Shelter Launcher”
 
 启动后会先进入封面。请手动填写你的API Key，建议使用sk-开头的DeepSeek API Key，点击开始游戏。
 
