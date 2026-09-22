@@ -8,13 +8,11 @@
 - 伏击风险最高；弹药充足时会降低伤害，弹药耗尽时伤害会进一步上升。
 - 搜索可能找到额外子弹：普通搜寻有中等概率获得少量子弹，大丰收事件有较高概率获得更多子弹。
 - 伤亡会出现在顶部警报、幸存者仪表盘、历史 DM 日志和资源结算中。
+- 尽可能地生存多一些的天数！
 
-## 启动
+## 启动方式
 
-```powershell
-python -m pip install -r requirements.txt
-streamlit run app.py
-```
+点击文件夹中的“Zombie Shelter Launcher”
 
 启动后会先进入封面。请手动填写你的API Key，建议使用sk-开头的DeepSeek API Key，点击开始游戏。
 
