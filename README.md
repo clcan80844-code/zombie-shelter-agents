@@ -15,4 +15,9 @@
 
 启动后会先进入封面。请手动填写你的API Key，建议使用sk-开头的DeepSeek API Key，点击开始游戏。
 
+有可能需要为电脑PowerShell配置以下：
+# 安装 streamlit 和 pandas（如果尚未安装）
+pip install streamlit pandas
+
+
 
