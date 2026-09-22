@@ -1,4 +1,4 @@
-# Zombie Shelter Agents
+# Zombie Shelter Agents 僵尸避难所
 
 一个带有人机协作、私密记忆、关系信任和资源生存规则的多 Agent 避难所模拟游戏。
 
