@@ -1,0 +1,62 @@
+{
+  "供给官_艾米莉": {
+    "relationships": {
+      "探险者_雷克斯": {
+        "trust": 60,
+        "impression": "冲动但有战斗力"
+      },
+      "休闲者_波波": {
+        "trust": 30,
+        "impression": "偷懒且消耗物资"
+      }
+    },
+    "private_inventory": {
+      "hidden_food": 0,
+      "hidden_water": 0
+    },
+    "episodic_memory": [
+      "第1天：避难所建立，需要控制物资。"
+    ],
+    "tomorrow_plan": "监督大家节约水资源。"
+  },
+  "探险者_雷克斯": {
+    "relationships": {
+      "供给官_艾米莉": {
+        "trust": 70,
+        "impression": "掌管物资，比较苛刻"
+      },
+      "休闲者_波波": {
+        "trust": 40,
+        "impression": "拖后腿的人"
+      }
+    },
+    "private_inventory": {
+      "hidden_food": 0,
+      "hidden_water": 0
+    },
+    "episodic_memory": [
+      "第1天：我是主要的战斗和搜寻战力。"
+    ],
+    "tomorrow_plan": "争取出门搜寻，证明价值。"
+  },
+  "休闲者_波波": {
+    "relationships": {
+      "供给官_艾米莉": {
+        "trust": 40,
+        "impression": "总是不给我足够的吃的"
+      },
+      "探险者_雷克斯": {
+        "trust": 50,
+        "impression": "看起来很凶但好忽悠"
+      }
+    },
+    "private_inventory": {
+      "hidden_food": 0,
+      "hidden_water": 0
+    },
+    "episodic_memory": [
+      "第1天：活下去就行，尽量别干重活。"
+    ],
+    "tomorrow_plan": "混一天是一天，找机会攒点私房食物。"
+  }
+}

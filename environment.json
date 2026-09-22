@@ -1,0 +1,51 @@
+{
+  "day": 1,
+  "is_game_over": false,
+  "game_over_reason": "",
+  "weather": "【微风】18°C，气温宜人",
+  "resources": {
+    "food_cans": 8,
+    "water_bottles": 8,
+    "bullets": 4
+  },
+  "external_threat": "门口有 1 只游荡的低阶僵尸",
+  "recent_event": "避难所刚刚建立，你与 3 名幸存者整理了最初的物资并躲了进来。",
+  "agent_states": {
+    "玩家_你": {
+      "stamina": 100,
+      "stress": 10,
+      "health": 100,
+      "injury_status": "健康",
+      "injury_days": 0,
+      "is_alive": true,
+      "cause_of_death": ""
+    },
+    "供给官_艾米莉": {
+      "stamina": 85,
+      "stress": 30,
+      "health": 100,
+      "injury_status": "健康",
+      "injury_days": 0,
+      "is_alive": true,
+      "cause_of_death": ""
+    },
+    "探险者_雷克斯": {
+      "stamina": 100,
+      "stress": 20,
+      "health": 100,
+      "injury_status": "健康",
+      "injury_days": 0,
+      "is_alive": true,
+      "cause_of_death": ""
+    },
+    "休闲者_波波": {
+      "stamina": 75,
+      "stress": 15,
+      "health": 100,
+      "injury_status": "健康",
+      "injury_days": 0,
+      "is_alive": true,
+      "cause_of_death": ""
+    }
+  }
+}
